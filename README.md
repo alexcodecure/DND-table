@@ -25,7 +25,7 @@ This project was created as part of my portfolio and is open to the D&D communit
 
 ## 🚀 Getting Started
 
-1. Make a copy of the template: [https://docs.google.com/spreadsheets/d/11k8OB7f6tUrHSVqk8r4QI8oq5LzflEFli-96TdRWbPc/edit?usp=sharing](#)
+1. Make a copy of the template: [this link](https://docs.google.com/spreadsheets/d/11k8OB7f6tUrHSVqk8r4QI8oq5LzflEFli-96TdRWbPc/edit?usp=sharing)
 2. Enter characters, NPCs, and monsters with their stats
 3. Use the **INITIATIVE** sheet to run encounters live
 
@@ -92,7 +92,7 @@ This sheet was developed as part of a technical showcase and to simplify D&D ses
 
 ## 🚀 Как начать
 
-1. Сделайте копию шаблона таблицы по [https://docs.google.com/spreadsheets/d/11k8OB7f6tUrHSVqk8r4QI8oq5LzflEFli-96TdRWbPc/edit?usp=sharing](#).
+1. Сделайте копию шаблона таблицы по [этой ссылке](https://docs.google.com/spreadsheets/d/11k8OB7f6tUrHSVqk8r4QI8oq5LzflEFli-96TdRWbPc/edit?usp=sharing).
 2. Заполните список участников и их характеристики.
 3. Используйте вкладку **ИНИЦИАТИВА** для ведения боя.
 
