@@ -114,4 +114,4 @@ Found a bug or want to suggest a feature?
 Feel free to open an issue or submit a pull request.
 
 Created by **Aleksandr Vasilev**  
-GitHub: [@BioTechScriber](https://github.com/BioTechScriber)
+GitHub: [@BioTechScriber](https://github.com/alexcodecure)
