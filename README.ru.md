@@ -111,4 +111,4 @@
 Если нашли баг или хотите предложить улучшение — создайте Issue или Pull Request.
 
 Автор: **Aleksandr Vasilev**  
-GitHub: [@BioTechScriber](https://github.com/BioTechScriber)
+GitHub: [@BioTechScriber](https://github.com/alexcodecure)
